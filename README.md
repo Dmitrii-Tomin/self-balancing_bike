@@ -1,6 +1,6 @@
 # 3D Printed Self-Balancing Bike
 
-![IMG_5848](https://github.com/user-attachments/assets/0c7321ca-4707-4bdc-8bb7-4c98a63ff7d9)
+![IMG_5848](https://github.com/user-attachments/assets/9fa83c51-07a4-46f7-a9b4-701d071ffdea)
 
 ![IMG_5852](https://github.com/user-attachments/assets/1eedc93d-6ad5-421b-bca4-9a38b7f129d1)
 
