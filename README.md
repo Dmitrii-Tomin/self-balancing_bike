@@ -16,7 +16,7 @@
 
 ## Introduction
 
-This project is a 3D printed self-balancing bike that uses a reaction wheel and an Inertial Measurement Unit (IMU) to maintain its balance. The bike is programmed using an Arduino, making it an excellent project for those interested in robotics, electronics, and 3D printing.
+This project is a **3D printed self-balancing bike** that uses a **reaction wheel** and an Inertial Measurement Unit **(IMU)** to maintain its balance. The bike is programmed using an **Arduino**, making it an excellent project for those interested in **robotics, electronics, and 3D printing.**
 
 ## Components
 
