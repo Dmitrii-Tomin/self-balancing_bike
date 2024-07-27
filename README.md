@@ -22,24 +22,41 @@ This project is a 3D printed self-balancing bike that uses a reaction wheel and 
 ## Components
 
 - **3D Printed Parts**
-  - Frame
-  - Fork
-  - Wheels
-  - Reaction Wheel Mount
-  - Miscellaneous connectors and brackets
+  - 1 frame
+  - 1 front_wheel_mount
+  - 1 left_rear_fork
+  - 1 right_rear_fork
+  - 1 reaction_wheel_mount
+  - 1 reaction_wheel
+  - 1 front_fork
+  - 2 wheel_rim
+  - 2 wheel_tyre
+  - 1 wheel_pulley
+  - 1 wheel_pulley_top
+  - 1 motor_pulley
+  - 1 motor_pulley_top
 
 - **Electronics**
-  - Arduino Uno or similar
-  - MPU-6050 IMU
-  - Brushless DC motor and ESC (Electronic Speed Controller) for the reaction wheel
-  - Li-Po battery
-  - Motor driver (if needed)
-  - Wires and connectors
+  - **Arduino pro mini:** any atmega328p based arduino should work
+  - **MPU-6050 IMU**
+  - **DC-DC buck converter:** 24V -> 5V
+  - **2 [Nidec 24H brushless motors](https://www.aliexpress.us/item/3256804723483727.html?gatewayAdapt=glo2usa4itemAdapt)**
+  - **6s Li-Po battery:** max 1300mah, because of size
+  - **MG995 servo**
+  - **PWM receiver**
 
 - **Hardware**
-  - Screws, nuts, and bolts
-  - Bearings
-  - Axles
+  - 80 M4 nuts: you might need more
+  - 21 M4 12mm screws: you might need more
+  - 4 M4 10mm screws
+  - 2 M4 15mm screws
+  - 4 M3 8mm screw
+  - 5 M3 nuts
+  - 5 M3 4-6mm grub screws: the pulley screw has to be shorter than 6mm, the others 6mm
+  - 3 M3 25mm screws
+  - 1 26mm & 1 37mm aluminium rod
+  - 1 240mm closed loop gt2 timing belt
+  - 4 608 bearings: 8*22*7mm
 
 ## 3D Printing
 
