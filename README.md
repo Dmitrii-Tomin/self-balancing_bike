@@ -55,7 +55,7 @@ This project is a **3D printed self-balancing bike** that uses a **reaction whee
   - **3 M3 25mm screws**
   - **1 26mm & 1 37mm aluminium rod**
   - **1 240mm closed loop gt2 timing belt**
-  - **4 608 bearings:** 8*22*7mm
+  - **4 608 bearings:** 8 X 22 X 7mm
 
 ## 3D Printing
 
