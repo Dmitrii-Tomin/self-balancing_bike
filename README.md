@@ -105,3 +105,5 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 ---
 
 Happy building and balancing! If you have any questions or need further assistance, feel free to open an issue in this repository.
+
+Credits to [CarbonAeronautics](https://github.com/CarbonAeronautics) for the [1D Kalman filter](https://github.com/CarbonAeronautics/Part-XV-1DKalmanFilter/blob/main/ArduinoCode)
