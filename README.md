@@ -47,13 +47,13 @@ This project is a **3D printed self-balancing bike** that uses a **reaction whee
 
 - **Hardware**
   - **80 M4 nuts:** you might need more
-  - **21 M4 12mm screws:** you might need more
-  - **4 M4 10mm screws**
-  - **2 M4 15mm screws**
-  - **4 M3 8mm screw**
+  - **21 M4 12mm bolts:** you might need more
+  - **4 M4 10mm bolts**
+  - **2 M4 15mm bolts**
+  - **4 M3 8mm bolts**
+  - **3 M3 25mm bolts**
   - **5 M3 nuts**
   - **5 M3 4-6mm grub screws:** the pulley screw has to be shorter than 6mm, the others 6mm
-  - **3 M3 25mm screws**
   - **1 26mm & 1 37mm aluminium rod**
   - **1 240mm closed loop gt2 timing belt**
   - **4 608 bearings:** 8 X 22 X 7mm
