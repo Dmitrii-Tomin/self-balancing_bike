@@ -43,7 +43,7 @@ This project is a **3D printed self-balancing bike** that uses a **reaction whee
   - **2 [Nidec 24H brushless motors](https://www.aliexpress.us/item/3256804723483727.html?gatewayAdapt=glo2usa4itemAdapt)**
   - **6s Li-Po battery:** max 1300mah, because of size
   - **MG995 servo**
-  - **PWM receiver**
+  - **PWM receiver** standard 50hz, 1-2ms pulses
 
 - **Hardware**
   - **80 M4 nuts:** you might need more
